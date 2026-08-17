@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar Plus" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE & SERIES",ES: M+ PLUS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57285
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES",ES: M+ ORIGINALES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57283
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES",ES: M+ ESTRENOS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58330
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES",ES: M+ HITS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5675
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5632
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES",ES: M+ COMEDIA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5636
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES",ES: M+ DRAMA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5644
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES",ES: M+ CLÁSICOS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5634
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES",ES: M+ INDIE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57282
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES",ES: M+ CINE ESPAÑOL
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5633
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES",ES: SOMOS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5730
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES",ES: DARK
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25930
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES",ES: HOLLYWOOD
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5619
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE & SERIES",ES: WARNER TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5739
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE & SERIES",ES: SYFY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5732
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE & SERIES",ES: CALLE 13
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5567
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE & SERIES",ES: AXN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5557
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE & SERIES",ES: AXN MOVIES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5558
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | CINE & SERIES",ES: STAR CHANNEL
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5613
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE & SERIES",ES: SUNDANCE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5731
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE & SERIES",ES: AMC
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5553
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES",ES: TCM
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5733
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES",ES: XTRM
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5751
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | CINE & SERIES",ES: COSMO
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5585
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | CINE & SERIES",ES: COMEDY CENTRAL
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5584
+#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES",ES: SQUIRREL 2 
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5727
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ES | CINE & SERIES",ES: VIN TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5726
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57284
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | DOCUMENTALES",ES: NATIONAL GEOGRAPHIC
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5714
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | DOCUMENTALES",ES: NAT GEO WILD
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5715
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | DOCUMENTALES",ES: DISCOVERY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5594
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | DOCUMENTALES",ES: DMAX
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5601
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | DOCUMENTALES",ES: ODISEA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5724
+#EXTINF:-1 tvg-id="Historia" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | DOCUMENTALES",ES: HISTORIA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5618
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | DOCUMENTALES",ES: AMC BREAK
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5564
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | DOCUMENTALES",ES: AMC BREAK
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25926
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | DOCUMENTALES",ES: AMC CRIME
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25927
+#EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | HOGAR",ES: CANAL DECASA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5571
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | HOGAR",ES: CANAL COCINA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5570
+#EXTINF:-1 tvg-id="BUEN VIAJE" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | HOGAR",ES: M+ BUEN VIAJE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57259
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CAZA PESCA TOROS",ES: CAZA Y PESCA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5578
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CAZA PESCA TOROS",ES: CAZAVISIÓN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/29358
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5621
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% CAZA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58332
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% PESCA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58333
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | CAZA PESCA TOROS",ES: (LÍNEA 1) ONETORO
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/55943
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | CAZA PESCA TOROS",ES: TOROLE TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/56009
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | CAZA PESCA TOROS",ES: (LÍNEA 2) ONETORO
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/56010
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTIL",ES: CLAN TVE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5580
+#EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTIL",ES: BOING
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5565
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | INFANTIL",ES: BABY TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5559
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTIL",ES: DISNEY CHANNEL
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5596
+#EXTINF:-1 tvg-id="DisneyJunior HD" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTIL",ES: DISNEY JUNIOR
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5597
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTIL",ES: DREAMWORKS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5602
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTIL",ES: NICK JR
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5720
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTIL",ES: NICKELODEON
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5721
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamilia.png" group-title="ES | INFANTIL",ES: ENFAMILIA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5726
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES: MEZZO LIVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES | MUSICA",ES: MEZZO LIVE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5689
+#EXTINF:-1 tvg-id="MTV 00s HD" tvg-name="ES: MTV 00S" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV_00s.png" group-title="ES | MUSICA",ES: MTV 00S
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25941
+#EXTINF:-1 tvg-id="MTV España" tvg-name="ES: MTV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="ES | MUSICA",ES: MTV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5712
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | MUSICA",ES: M+ HITS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58881
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TDT",ES: LA 1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5622
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TDT",ES: LA 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5623
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="ES: TVE INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/tve-internacional.png" group-title="ES | TDT",ES: TVE INTERNACIONAL
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5745
+#EXTINF:-1 tvg-id="24 Horas HD" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | TDT",ES: 24 HORAS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5550
+#EXTINF:-1 tvg-id="Star TVE HD" tvg-name="ES: STAR TVE" tvg-logo="https://docdog.top/logo/countries/spain/STAR_TVE.png" group-title="ES | TDT",ES: STAR TVE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/29338
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | TDT",ES: ANTENA 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5555
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | TDT",ES: ATRESERIES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25952
+#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | TDT",ES: NEOX
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5718
+#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | TDT",ES: NOVA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5723
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | TDT",ES: MEGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5688
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TDT",ES: CUATRO
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5588
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TDT",ES: TELECINCO
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5734
+#EXTINF:-1 tvg-id="Factoría de Ficción HD" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TDT",ES: FACTORÍA DE FICCIÓN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5611
+#EXTINF:-1 tvg-id="Divinity HD" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | TDT",ES: DIVINITY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5599
+#EXTINF:-1 tvg-id="Energy HD" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | TDT",ES: ENERGY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5603
+#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | TDT",ES: BE MAD
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5561
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TDT",ES: LA SEXTA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5625
+#EXTINF:-1 tvg-id="DKISS HD" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | TDT",ES: DKISS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5600
+#EXTINF:-1 tvg-id="Ten HD" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | TDT",ES: TEN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5738
+#EXTINF:-1 tvg-id="TRECE HD" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TDT",ES: TRECE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5741
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | TDT",ES: EL TORO TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25932
+#EXTINF:-1 tvg-id="Aragon TV" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | REGIONALES",ES: ARAGÓN TV INT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5556
+#EXTINF:-1 tvg-id="0" tvg-name="ES: TELEMADRID INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | REGIONALES",ES: TELEMADRID INT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5736
+#EXTINF:-1 tvg-id="TV3 Cat" tvg-name="ES: TV3 CAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | REGIONALES",ES: TV3 CAT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5743
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | REGIONALES",ES: CANAL SUR ANDALUCÍA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5576
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | REGIONALES",ES: CANAL EXTREMADURA SAT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5609
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ES: ETB 2" tvg-logo="https://docdog.top/logo/countries/spain/etb2-es.png" group-title="ES | REGIONALES",ES: ETB 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5759
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ES: ETB 1" tvg-logo="https://docdog.top/logo/countries/spain/etb1-es.png" group-title="ES | REGIONALES",ES: ETB 1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5760
+#EXTINF:-1 tvg-id="A Punt" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="ES | REGIONALES",ES: À PUNT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25925
+#EXTINF:-1 tvg-id="CMM.es" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | REGIONALES",ES: CASTILLA LA MANCHA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58329
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | REGIONALES",ES: TV Canaria
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/70904
+#EXTINF:-1 tvg-id="CNN Int" tvg-name="ES: CNN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN.png" group-title="ES | OTHERS",ES: CNN
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25923
+#EXTINF:-1 tvg-id="Ubeat" tvg-name="ES: UBEAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ubeat.png" group-title="ES | OTHERS",ES: UBEAT
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25951
+#EXTINF:-1 tvg-id="Euronews" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | OTHERS",ES: EURONEWS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25935
+#EXTINF:-1 tvg-id="Telesur" tvg-name="ES: TELESUR" tvg-logo="https://docdog.top/logo/countries/spain/Telesur.png" group-title="ES | OTHERS",ES: TELESUR
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25943
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA" tvg-logo="https://docdog.top/logo/countries/spain/TELE_ONUBA_TV.png" group-title="ES | OTHERS",ES: TELEONUBA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/29336
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25125
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57344
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63431
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/54668
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57359
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57476
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5758
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/54535
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/54532
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57362
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58303
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD) DAZN F1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57485
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD REPUESTO) DAZN F1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57484
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN F1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57486
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD REPUESTO) DAZN F1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57483
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57560
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57356
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/54531
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57363
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57367
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58115
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5663
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58116
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5664
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5665
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5666
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5667
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5668
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5669
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5670
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5685
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5686
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5687
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/29360
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="ES | DEPORTES",ES: DAZN MOTOGP FHD
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/70905
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5589
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57475
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5590
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5591
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5592
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5661
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25128
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25953
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/25954
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5652
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5651
+#EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57248
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5643
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (HD) M+ DEPORTES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57481
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5639
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5640
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 4
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5641
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5681
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 6
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5682
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5683
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5607
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES",ES: EUROSPORT 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5608
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5630
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/73273
+#EXTINF:-1 tvg-id="ESPN Deportes HD" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES",ES: ESPN DEPORTES
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5605
+#EXTINF:-1 tvg-id="Top Barça" tvg-name="ES: BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ES | DEPORTES",ES: BARCA TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5560
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES",ES: REAL MADRID TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5729
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="ES | DEPORTES",ES: BETIS TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57269
+#EXTINF:-1 tvg-id="M+ Ellas #V" tvg-name="ES: M+ ELLAS V" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="ES | DEPORTES",ES: M+ ELLAS V
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/29333
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES",ES: TELEDEPORTE
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5735
+#EXTINF:-1 tvg-id="GOL" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES",ES: GOL PLAY
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5617
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES",ES: M+ GOLF
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/5649
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="ES | DEPORTES",ES: M+ GOLF 2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/57256
+#EXTINF:-1 tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png" group-title="ES | UFC",ES: MAX PPV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58113
+#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="ES | UFC",ES: UFC FIGHT PASS
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58114
+#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58313
+#EXTINF:-1 tvg-id="" tvg-name="CH4" tvg-logo="" group-title="PPV",CH4
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58316
+#EXTINF:-1 tvg-id="" tvg-name="CH11" tvg-logo="" group-title="PPV",CH11
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58323
+#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58324
+#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58314
+#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58315
+#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58317
+#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58318
+#EXTINF:-1 tvg-id="" tvg-name="CH7" tvg-logo="" group-title="PPV",CH7
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58319
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58320
+#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58321
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58322
+#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES",ES: RALLY TV
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/58325
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 01
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63433
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 02
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63434
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 03
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63435
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 04" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 04
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63436
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 05" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 05
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/63437
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 06" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 06
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/64831
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 07" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 07
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/64832
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="ES: ACB Evento 08" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 08
+http://dejatedemamadas.neospaxy.top:8080/Pacodrogueria/1234/64833
